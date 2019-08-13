@@ -9,3 +9,6 @@ export CPLUS_INCLUDE_PATH=/usr/include/gdal
 
 export C_INCLUDE_PATH=/usr/include/gdal
 pip install GDAL==1.10.0
+
+#but only works well for python3
+#python2 seems to have some problem
